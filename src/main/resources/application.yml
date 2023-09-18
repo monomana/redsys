@@ -1,0 +1,7 @@
+server:
+  port: ${SERVER_PORT_CLIENT:8080}
+
+app:
+  sha256key: ${SHA_256_KEY}
+  end-points:
+    payment: ${END_POINT_PAYMENT:"/api/v1/auth"}
