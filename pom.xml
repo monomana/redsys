@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>ar.modularsoft</groupId>
 	<artifactId>redsys</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-RELEASE</version>
 	<name>redsys</name>
-	<description>Back End de pasarela de pago de Redsys</description>
+	<description>Backend de pasarela de pago de Redsys</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
